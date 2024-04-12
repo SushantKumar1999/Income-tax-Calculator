@@ -1,0 +1,33 @@
+body {
+    padding-top: 50px;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+    margin-top: 120px
+   
+}
+
+.custom-border {
+    border: 1px solid gray;
+    padding: 20px; 
+    border-radius: 10px;
+}
+
+.tooltip-icon {
+    cursor: pointer;
+}
+
+.bi-question-circle{
+    cursor: pointer;
+}
+
+.heading{
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.invalid-input {
+    border-color: red !important;
+}
